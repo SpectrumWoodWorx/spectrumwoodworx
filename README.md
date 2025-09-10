@@ -14,4 +14,4 @@ Website is deployed via [GitHub Pages](https://pages.github.com/).
 
 ---
 
-Built by hand. One layer at a time.
+Digitally forged. Where pixels meet purpose. Layer by layer.
